@@ -27,3 +27,7 @@ CodeVision AVR is an Integrated Development Environment (IDE) for the Atmel AVR 
 **1) Atmega16 Microcontroller**
 
 ATmega16 is an 8-bit high performance microcontroller from the Atmel's Mega AVR family. Atmega16 is a 40 pin microcontroller based on enhanced RISC (Reduced Instruction Set Computing) architecture with 131 powerful instructions. It has a 16 KB programmable flash memory, static RAM of 1 KB and EEPROM of 512 Bytes.
+
+<p align="center"> <img width="300" src="https://user-images.githubusercontent.com/74250682/101168052-e021bd80-3660-11eb-90d2-b16ab98a56ba.png"> <img width="300" src="https://user-images.githubusercontent.com/74250682/101168841-0ac04600-3662-11eb-8f97-f75ffb000072.jpg"> </p> 
+
+
