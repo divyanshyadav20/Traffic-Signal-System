@@ -30,4 +30,15 @@ ATmega16 is an 8-bit high performance microcontroller from the Atmel's Mega AVR 
 
 <p align="center"> <img width="300" src="https://user-images.githubusercontent.com/74250682/101168052-e021bd80-3660-11eb-90d2-b16ab98a56ba.png"> <img width="300" src="https://user-images.githubusercontent.com/74250682/101168841-0ac04600-3662-11eb-8f97-f75ffb000072.jpg"> </p> 
 
+**2) LEDs**
+
+A light-emitting diode (LED) is a semiconductor device that emits light when an electric current is passed through it. Light is produced when the particles that carry the current (known as electrons and holes) combine within the semiconductor material. In this project, I have used 8 LEDs in which four are RED, and four are of GREEN color, depicting the "STOP" and "GO" of Traffic Signals.
+
+<p align="center"> <img width="300" src="https://user-images.githubusercontent.com/74250682/101169615-37289200-3663-11eb-98df-3569b8f46a43.jpg"> </p>
+
+**3) 7 SEGMENT**
+
+The 7-segment display, also written as “seven segment display”, consists of seven LEDs (hence its name) arranged in a rectangular fashion. Each of the seven LEDs is called a segment because, when illuminated, the segment forms part of a numerical digit (both Decimal and Hex) to be displayed. For delineating the real life Traffic Signal's timer in my project, I have used two 7SEGs which display an interval of 30 seconds between each consecutive RED and GREEN signals.
+
+<p align="center"> <img width="300" src="https://user-images.githubusercontent.com/74250682/101170460-7efbe900-3664-11eb-8ffa-67c04f70a468.jpg"> <img height="300" src="https://user-images.githubusercontent.com/74250682/101170628-bd91a380-3664-11eb-8089-b5755d87e4d4.png"> </p>
 
