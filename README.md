@@ -46,4 +46,6 @@ The 7-segment display, also written as “seven segment display”, consists of 
 
 * Three input/output ports of the Atmega16 microcontroller are used for the development of this project, in which all the 8 LEDs are connected to PORT A while PORT C and D, are connected to two different 7 SEGMENT displays. 
 * The code is written in Embedded C, with the help of IDE-CV AVR. The HEX file generated after building up the code is uploaded to the Atmega16 controller.
-* All the 24 input/output pins are given high logic in the beginning and then LEDs and 7SEGs are lit up in sequential order, imitating the actual Traffic Signal.
+* All the 24 input/output pins are given high logic in the beginning and, then LEDs and 7SEGs are lit up in sequential order, imitating the actual Traffic Signal. A 5V VCC supply is used, which acts as a power source to the circuit.  
+
+<p align="center"> <img height="460" src="https://user-images.githubusercontent.com/74250682/101172677-7d7ff000-3667-11eb-83a8-d9bc85728b4b.png"> </p>
