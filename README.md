@@ -53,3 +53,5 @@ The 7-segment display, also written as “seven segment display”, consists of 
 ### Simulation of the Project:
 
 <p align="center"> <img height="460" src="https://user-images.githubusercontent.com/74250682/101174836-65f63680-366a-11eb-877a-cff3dfdf76b0.png"> </p>
+
+In the above depiction, the timer has started at 30 seconds, and as a result, the green light will stay ON, on one side, and will stay ON for 30 seconds. After this interval, a new cycle of 30 seconds will start, and another green light will lit up. When a green light is ON, three other red lights will also stay ON for the same amount of time. Thus, imitating the standard Traffic Signal.
