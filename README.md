@@ -36,9 +36,14 @@ A light-emitting diode (LED) is a semiconductor device that emits light when an 
 
 <p align="center"> <img width="300" src="https://user-images.githubusercontent.com/74250682/101169615-37289200-3663-11eb-98df-3569b8f46a43.jpg"> </p>
 
-**3) 7 SEGMENT**
+**3) 7 SEGMENT Display**
 
 The 7-segment display, also written as “seven segment display”, consists of seven LEDs (hence its name) arranged in a rectangular fashion. Each of the seven LEDs is called a segment because, when illuminated, the segment forms part of a numerical digit (both Decimal and Hex) to be displayed. For delineating the real life Traffic Signal's timer in my project, I have used two 7SEGs which display an interval of 30 seconds between each consecutive RED and GREEN signals.
 
 <p align="center"> <img width="300" src="https://user-images.githubusercontent.com/74250682/101170460-7efbe900-3664-11eb-8ffa-67c04f70a468.jpg"> <img height="300" src="https://user-images.githubusercontent.com/74250682/101170628-bd91a380-3664-11eb-8089-b5755d87e4d4.png"> </p>
 
+### Circuit Diagram and Working of the Project:
+
+* Three input/output ports of the Atmega16 microcontroller are used for the development of this project, in which all the 8 LEDs are connected to PORT A while PORT C and D, are connected to two different 7 SEGMENT displays. 
+* The code is written in Embedded C, with the help of IDE-CV AVR. The HEX file generated after building up the code is uploaded to the Atmega16 controller.
+* All the 24 input/output pins are given high logic in the beginning and then LEDs and 7SEGs are lit up in sequential order, imitating the actual Traffic Signal.
