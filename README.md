@@ -49,3 +49,7 @@ The 7-segment display, also written as “seven segment display”, consists of 
 * All the 24 input/output pins are given high logic in the beginning and, then LEDs and 7SEGs are lit up in sequential order, imitating the actual Traffic Signal. A 5V VCC supply is used, which acts as a power source to the circuit.  
 
 <p align="center"> <img height="460" src="https://user-images.githubusercontent.com/74250682/101172677-7d7ff000-3667-11eb-83a8-d9bc85728b4b.png"> </p>
+
+### Simulation of the Project:
+
+<p align="center"> <img height="460" src="https://user-images.githubusercontent.com/74250682/101174836-65f63680-366a-11eb-877a-cff3dfdf76b0.png"> </p>
