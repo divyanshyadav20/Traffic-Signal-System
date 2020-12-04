@@ -22,7 +22,7 @@ CodeVision AVR is an Integrated Development Environment (IDE) for the Atmel AVR 
   <img width="460" height="300" src="https://user-images.githubusercontent.com/74250682/101167439-e2cfe300-365f-11eb-90d6-2fd6515124ce.jpg">
 </p>
 
-### Hardware Used:
+### Components Used:
 
 **1) Atmega16 Microcontroller**
 
